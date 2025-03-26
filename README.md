@@ -17,7 +17,7 @@
 
 ### 📬 Connect with Me
 - 📧 Email: abdalrahmannaseem.work@gmail.com
-- 💼 LinkedIn: ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/abdalrahman-naseem-006a24328/?originalSubdomain=jo))
+- 💼 LinkedIn: (https://www.linkedin.com/in/abdalrahman-naseem-006a24328/?originalSubdomain=jo))
 
 
 🔍 **"Code is like humor. When you have to explain it, it’s bad.
